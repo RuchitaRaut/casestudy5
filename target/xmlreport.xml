@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="0.004241">
+<testcase classname="TestMe application login" name="TestMe app login" time="0.003518">
+<system-out><![CDATA[* user login to testme app suing valid credentials..........................passed
+]]></system-out>
+</testcase>
+<testcase classname="TestMe application login" name="Search products" time="0.000284">
+<system-out><![CDATA[* user searching for products available in catlog...........................passed
+]]></system-out>
+</testcase>
+<testcase classname="TestMe application login" name="add products" time="0.000222">
+<system-out><![CDATA[* user adding products to cart..............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="TestMe application login" name="logout - testmeapp" time="0.000217">
+<system-out><![CDATA[* user perform logout.......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
